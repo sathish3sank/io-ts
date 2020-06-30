@@ -1,0 +1,34 @@
+{
+  "name": "io-ts",
+  "version": "1.0.0",
+  "description": "Practical examples",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "example": "ts-node examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathish3sank/io-ts.git"
+  },
+  "keywords": [
+    "io-ts",
+    "typescript"
+  ],
+  "author": "Sathish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathish3sank/io-ts/issues"
+  },
+  "homepage": "https://github.com/sathish3sank/io-ts#readme",
+  "dependencies": {
+    "fp-ts": "^2.6.7",
+    "io-ts": "^2.2.7"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.3",
+    "jest": "^26.1.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
